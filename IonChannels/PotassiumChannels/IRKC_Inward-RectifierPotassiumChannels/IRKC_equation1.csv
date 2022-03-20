@@ -1,0 +1,9 @@
+IRKC-eq1,,,
+Parameter,Description, Value,Ref
+g_kir,The cell conductance for potassium ions through Kir channels,,[1-4]
+"f_o^{k, kir}",The open probability of these channels,,
+k_kir,Inward rectifier constant(the steepness factor of conductance-voltage relationship),,
+"V_{1/2, Kir}",The half-activation potential,,
+A,A constant that determines the voltage shift per decade increase in intracellular potassium concentration,,
+B,A constant that determines the voltage shift per decade increase in intracellular potassium concentration,,
+n_{kir},The Hill coefficient for the kir open probability,,

@@ -1,0 +1,4 @@
+EnaC-eq31,,,
+Parameter,Description, Value,Ref
+n''_{ENaC}^{M-N},density per area of the channel,,"[5, 6]"
+g_{ENaC},The membrane conductance for sodium channels,,

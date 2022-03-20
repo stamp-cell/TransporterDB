@@ -1,0 +1,11 @@
+CaL-eq54,,,
+Parameter,Description, Value,Ref
+"P_{Na, M}^{M-N}",The permeability coefficient for the sodium ions through the CaL channels,,"[12, 17, 18]"
+"P_{Ca, M}^{M-N}",The permeability coefficient for the calcium ions through the CaL channels,,
+"P_{K, M}^{M-N}",The permeability coefficient for the potassium ions through the CaL channels,,
+F ,Faraday's constant,"96,490 (A.s /mol)",
+R,Universal gas constant  ,8.314 (J/(mol.K)),
+z_K,Ionic charge for potassium ion,1,
+z_Ca,Ionic charge for calcium ion,2,
+z_Na,Ionic charge for sodium ion,1,
+gamma_i,the activity coefficient of the ion,,

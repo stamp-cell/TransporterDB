@@ -1,0 +1,17 @@
+Cat-eq64,,,
+Parameter,Description, Value,Ref
+"overline{P}_{Ca, CaL}^{M-N}",the permeability coefficient for the calcium ions through the Ca_t channels,,[19-22]
+m_{Cat},the activation voltage dependent component,,
+Bar{m}_{Ca_t} ,the respective voltage dependent steady-state values,,
+h_{Cat},the inactivation voltage dependent component,,
+Bar{h}_{Ca_t},the respective voltage dependent steady-state values,,
+tau_{m},the correspondence mean time constants for \Bar{m}_{NaV},,
+tau_{h},the correspondence mean time constants for \Bar{h}_{NaV},,
+"V_{1/2, {m Cat}}",half-activation potential for the NaV channels,,
+"V_{1/2, {h Cat}}",Half-inactivation potential for the NaV channels,,
+"k_{m, Ca_t}",the corresponding channel's gating slope,,
+"k_{h, Ca_t}",the corresponding channel's gating slope,,
+alpha_h,inactivation kinetics of the associated time constants,,
+alpha_m,activation kinetics of the associated time constants,,
+bata_m,activation kinetics of the associated time constants,,
+bata_h,inactivation kinetics of the associated time constants,,

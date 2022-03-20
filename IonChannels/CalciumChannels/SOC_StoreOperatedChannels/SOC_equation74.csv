@@ -1,0 +1,11 @@
+SOC-eq71,,,
+Parameter,Description, Value,Ref
+"P_{Ca, SOC}^{M-N(a)}",the apical membrane permeability coefficients for the calcium ions through SOC channels,,[3]
+"P_{Na, SOC}^{M-N(a)}",the apical membrane permeability coefficients for the sodium ions through SOC channels,,
+F ,Faraday's constant,"96,490 (A.s /mol)",
+R,Universal gas constant  ,8.314 (J/(mol.K)),
+f_o^{SOC},the open probability of the SOC channels,,
+eta_{SOC},the Hill coefficient for the SOC channels,,
+K_{SOC},the calcium concentration at which the open probability is 50%,,
+z_Na,Ionic charge for sodium ion,1,
+z_Ca,Ionic charge for calcium ion,2,

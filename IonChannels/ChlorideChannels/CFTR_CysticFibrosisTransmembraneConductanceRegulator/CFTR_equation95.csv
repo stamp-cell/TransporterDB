@@ -1,0 +1,6 @@
+SOC-eq71,,,
+Parameter,Description, Value,Ref
+{n''}_{CFTR}^{M-N(a)},the CFTR channel density per membrane area,,[28]
+g_{CFTR}^{M-N},the (membrane) conductance for CFTR channel,,
+"{g}_HCO3^{M-N} ([HCO3]_M , [HCO3]_N)",the effective permeability for HCO3 ions through CFTR channels,can be obtained through eq 97,
+"{g}_Cl^{M-N} ([Cl]_M , [Cl]_N)",the effective permeability for HCO3 ions through CFTR channels,,

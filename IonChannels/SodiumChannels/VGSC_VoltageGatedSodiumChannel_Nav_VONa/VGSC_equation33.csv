@@ -1,0 +1,13 @@
+NaV-eq33,,,
+Parameter,Description, Value,Ref
+g_{NaV},The maximum whole-cell conductance for the Nav channels,,"[2, 13]"
+m_{Nav},the activation voltage dependent component,,
+Bar{m}_{Na_v}$ ,the respective voltage dependent steady-state values,,
+h_{NaV},the inactivation voltage dependent component,can be obtained through eq. 36,
+Bar{h}_{Na_v},the respective voltage dependent steady-state values,can be obtained through eq. 37,
+tau_{m},the correspondence mean time constants for \Bar{m}_{NaV},0.1 ms,
+tau_{h},the correspondence mean time constants for \Bar{h}_{NaV},1 ms,
+"V_{1/2, {m NaV}}",half-activation potential for the NaV channels,,
+"V_{1/2, {h NaV}}",Half-inactivation potential for the NaV channels,,
+"k_{m, Na_v}",the corresponding channel's gating slope,,
+"k_{h, Na_v}",the corresponding channel's gating slope,,

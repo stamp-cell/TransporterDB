@@ -1,0 +1,18 @@
+XcaKC-eq5,X denotes S K or I K or BK,,
+Parameter,Description, Value,Ref
+g_{CaKC},The maximum whole-cell conductance for the CaKC channels,,[4]
+"f_o^{k, CaKC}",The open probability for CaKC channels,,
+C_f,the corresponding fast activation constant coefficient,,
+f_f^{BK_{CaKC},time-course of channel's open probability-fast component,obtained through eq. 10,
+\Bar{f}_f^{BK_{CaKC}},the steady state open probability of the high conductance CaKC channel-fast component,,
+tau_{f_f}^{CaKC},the correspondence mean time constants for the fast open probability,,
+C_s,the corresponding slow activation constant coefficient,,
+f_s^{BK_{CaKC},time-course of channel's open probability-slow component,,
+\Bar{f}_s^{BK_{CaKC}},the steady state open probability of the high conductance CaKC channel-slow component,,
+tau_{f_s}^{CaKC} ,the correspondence mean time constants for the slow open probability,,
+\Bar{f}_{o}^{BK_{CaKC}},the steady state open probability of the high conductance CaKC channel,,
+"V_{1/2, BK_{CaKC}}",half-activation potential for the high conductance CaKC channels,,
+k_{BK_{CaKC}},high conductance CaKC channel's constant,,
+A,constant- determines the voltage shift per decade increase in intracellular calcium concentration,,
+B,constant- determines the voltage shift per decade increase in intracellular calcium concentration,,
+"V_{1/2, BK_{CaKC}} ",the half-activation potential for the high conductance CaKC channels,obtained through eq. 14,

@@ -1,0 +1,11 @@
+CaL-eq56,X denotes S K or I K or BK,,
+Parameter,Description, Value,Ref
+g_{Ca_L}^{max},the maximum cell conductance for calcium L-type channels,can be obtained through eq. 58,"[2, 4]"
+f_o^{CaL},The activation probability of the CaL channels,can be obtained through eq. 59,
+f_d^{CaL},The inactivation probability for CaL channels,,
+Bar{f}_{d}^{Ca_l}  ,the steady state value of  f_d^{Ca_l},can be obtained through eq. 60,
+Bar{f}_{o}^{Ca_l},the steady state values of f_o^{Ca_l},can be obtained through eq. 61,
+tau_{f_f}^{Ca_l},the respective time constant for activation gate,,
+tau_{f_d}^{Ca_l},the respective time constant for inactivation gate,,
+"V_{1/2, f_o}^{ Ca_l, M-N}",Half-activation voltage,,
+"V_{1/2, f_d}^{ Ca_l, M-N}",Half-inactivation voltage,,

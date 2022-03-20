@@ -1,0 +1,6 @@
+XcaKC-eq5,X denotes S K or I K or BK,,
+Parameter,Description, Value,Ref
+"P_{K, K2P}^{M-N}",the membrane permeability for potassium ions through a single K2P,,[11]
+F ,Faraday's constant,"96,490 (A.s /mol)",
+R,Universal gas constant  ,8.314 (J/(mol.K)),
+z_K,Ionic charge for potassium ion,1,

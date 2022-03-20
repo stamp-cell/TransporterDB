@@ -1,0 +1,7 @@
+VGPC-eq23,,,
+Parameter,Description, Value,Ref
+g_{K_v},The cell conductance for VGPC channels,,[9]
+g^\circ _{Kv},a constant for VGPC conductance per unit area of the membrane,,
+alpha_n,are rate constants,unit s^{-1},
+beta_n,are rate constants,unit s^{-1},
+n,a dimensionless variable which can vary between 0 and 1,,

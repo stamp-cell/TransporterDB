@@ -1,0 +1,7 @@
+KATP-eq26,,,
+Parameter,Description, Value,Ref
+g_{K_{ATP}},the cell conductance for K_{ATP},can be obtained through eq. 27,"[2, 10]"
+f_o^{K_{ATP}} ,The open probability for $K_{ATP}$ channels at a given ATP concentration,can be obtained through eq. 28,
+eta_{KATP},The Hill coefficient for the KATP open probability,0.463,
+g_{KATP}^{max},the maximum cell conductance,1.036,
+K_{0.5},the Hill model parameters,5.4,
