@@ -1,0 +1,6 @@
+NaKATPase (equation 78)
+Parameter, Value
+J_Na_IE_NaKATPase_max, 3.93
+J_Na_IS_NaKATPase_max, 2.6 
+K_Na, 0.2*10^(-3)*(1.0 + \frac{[K]_{bl}}{8.33\times10^{-3}}) 
+K_K, 0.1*10^(-3)*(1.0 + \frac{[Na]_{e}}{18.5\times10^{-3}})

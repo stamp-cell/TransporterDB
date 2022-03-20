@@ -1,0 +1,7 @@
+NaK_ATPase_Pump(equation 69)
+Parameter, Value
+I_NaK_alpha_1_max, 1.5/(1 + 0.6*0.25)
+I_NaK_alpha_2_max, 1.5*(0.6*0.25)/(1 + 0.6*0.25)
+K_m_K, 1.5 
+K_m_Na_alpha_1, 12 
+K_m_Na_alpha_2}, 22

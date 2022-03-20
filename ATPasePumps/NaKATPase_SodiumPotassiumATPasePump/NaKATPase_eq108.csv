@@ -1,0 +1,7 @@
+NaKATPase_eq101			
+Parameter	Description	 Value	Ref
+G_pump		 4.38*10^(-8)	[29-34]
+E_rev		-200	
+K_pNa		25	
+K_pK		1.4	
+
