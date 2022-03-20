@@ -1,6 +1,6 @@
 # TransporterDB
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/33631502/159145085-36241478-cf0a-4d61-8e2f-a740a78b8c99.png" width=30% height=30%>
 
 TransporterDB is a biophysical database that contains data on the kinetic parameters of membrane transporters and ion channels.
