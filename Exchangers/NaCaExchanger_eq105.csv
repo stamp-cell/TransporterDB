@@ -1,0 +1,10 @@
+NCX (equation 105),
+Parameter,Value
+INCXmax,200
+KmCai,3.59
+KmCao,1.3
+KmNai,12.29
+KmNao,87.5
+r,0.27
+r ,0.35
+KmNCX_Ca,0.256
