@@ -1,4 +1,8 @@
 # TransporterDB
+
+
+<img src="https://user-images.githubusercontent.com/33631502/159145085-36241478-cf0a-4d61-8e2f-a740a78b8c99.png" width=80% height=80%>
+
 TransporterDB is a biophysical database that contains data on the kinetic parameters of membrane transporters and ion channels.
 TransporterDB can be accessed through a web browser (https://transporterdb.org/) and GitHub repository
 (https://github.com/stamp-cell/TransporterDB). 
@@ -10,6 +14,9 @@ The source of data is in vivo and in vitro studies on different mammals. Users a
 
 TransporterDB is developed by Shadi Zaheri, Purav Kumar Maheshwari, and Fatemeh Hassanipour.
 This work was supported by the National Science Foundation under grant number 1454334
+
+
+![test](https://github.com/favicon.ico | width=48)
 
 # For Citing:
 If using the equations please cite [A mathematical modeling toolbox for ion channels and transporters across cell membranes](https://www.sciencedirect.com/science/article/abs/pii/S0017931021005263)
