@@ -16,7 +16,6 @@ TransporterDB is developed by Shadi Zaheri, Purav Kumar Maheshwari, and Fatemeh 
 This work was supported by the National Science Foundation under grant number 1454334
 
 
-![test](https://github.com/favicon.ico | width=48)
 
 # For Citing:
 If using the equations please cite [A mathematical modeling toolbox for ion channels and transporters across cell membranes](https://www.sciencedirect.com/science/article/abs/pii/S0017931021005263)
