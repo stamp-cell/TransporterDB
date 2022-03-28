@@ -1,0 +1,6 @@
+NaKATPase_eq108,Cell Type: Cardiac Ventricular Endothelial (pig ventricular cell.),,
+Parameter,Description, Value,Ref
+I_{NaK}^{max},the maximum NaK ATPase current in $(\mu A \mu F^{-1})$,1.5,"[2,37]"
+\psi_{NaK}^{cyt},captures the membrane voltage influence on $I_{NaK}$ and is a function of the extracellular sodium concentration on the current produced by NaK ATPase pumps,can be obtained through eq. 109A and b,
+"K_{m,K}",the potassium ($[K]$) half-saturation constant (in mmol/L) for NaK ATPase,1.5,
+"K_{m, Na, , \alpha_1}",sodium ($[Na]$) half-saturation constant for NaK ATPase in mmol/L,10,

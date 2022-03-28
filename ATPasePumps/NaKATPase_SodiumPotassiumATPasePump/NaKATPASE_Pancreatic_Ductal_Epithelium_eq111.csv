@@ -1,0 +1,7 @@
+NaKATPase_ equation 111,Type of cells: Pancreatic Ductal Epithelium,,
+Parameter,Description, Value,Ref
+P_{pump},membrane permeability coefficient in the unit of $mol/V/sec/cm2$,3.00E-07,[38]
+P_{pump},membrane permeability coefficient in the unit of (mu.mol/cm2.h). ,4.38E-08,[55]
+V_rev,,-200,
+K_pNa,dissociation constant for sodium ion,25,
+K_pK,dissociation constant for potassium ion,1.4,

@@ -1,0 +1,8 @@
+NaKATPase_eq101,Type of cells:  Rat Ascending Henle Limb,,
+Parameter,Description, Value,Ref
+J_{Na^+}^{NakATpase},the maximum steady-state efflux of the sodium ions and is the function of membrane potential-Cell-Basal,2.6,[29-34][15]
+J_{Na^+}^{NakATpase},the maximum steady-state efflux of the sodium ions and is the function of membrane potential-Cell-Lateral,13,
+K_{Na}^{NaK},the saturation constants for the intracellular sodium,0.0002,
+K_{K}^{NaK},the saturation constants for the extracellular potassium ions,0.0001,
+a_{NaK},the constants that depend on the types of cells each can take different values,0.00833,
+b_{NaK},the constants that depend on the types of cells each can take different values,0.00833,
