@@ -1,0 +1,10 @@
+HKATPASE_115,Type of cells: macula densa (MD) cells,,
+Parameter,Description, Value,Ref
+k_Na^{lc},the translocation rate constants from lumen side to cytosol side,,[39]
+k_ Na^{cl},the translocation rate constants from cytosol side to lumen side,,
+k_K^{lc},the translocation rate constants from lumen side to cytosol side,,
+k_ K^{cl},the translocation rate constants from cytosol side to lumen side,,
+k_NH4^{lc},the translocation rate constants from lumen side to cytosol side,,
+k_ NH4^{cl},the translocation rate constants from cytosol side to lumen side,,
+k_H^{lc},the translocation rate constants from lumen side to cytosol side,,
+k_ H^{cl},the translocation rate constants from cytosol side to lumen side,,
