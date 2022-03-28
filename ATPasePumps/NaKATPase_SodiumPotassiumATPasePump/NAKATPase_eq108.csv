@@ -1,5 +1,0 @@
-NaKATPase(equation73),,,
-Parameter,Description, Value,Ref
-I_pmax,,20,"[29,34]"
-k_Na,,15,
-J_{Na^+}^{NakATpase},the maximum steady-state efflux of the sodium ions and is the function of membrane potential,,
