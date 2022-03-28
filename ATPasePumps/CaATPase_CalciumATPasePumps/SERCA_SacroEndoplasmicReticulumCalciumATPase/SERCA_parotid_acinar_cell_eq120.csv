@@ -1,0 +1,5 @@
+PMCA_120,Type of cells: parotid acinar cell,,
+Parameter,Description, Value,Ref
+K_{SERCA},the concentration at which a half-maximal uptake is observed (nM),400,[7]
+I_{SERCA}^max,the maximum current through the pump (nmol)/s,1.00E-09,
+\etha_SERCA,The hill coefficient for SERCA pump,2,

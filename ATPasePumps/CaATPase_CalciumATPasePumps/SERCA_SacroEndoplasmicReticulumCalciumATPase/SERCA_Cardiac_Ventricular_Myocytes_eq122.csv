@@ -1,0 +1,8 @@
+PMCA_122,Type of cells: Cardiac Ventricular Myocytes,,
+Parameter,Description, Value,Ref
+V_{maxf},the Hill parameters for the forward pump flux (micro M/s),137,[45]
+K_{mf},the Hill parameters for the forward pump flux (nM),260,
+\eta_f,the Hill parameters for the forward pump flux,0.75,
+V_{maxr},the Hill parameters for the backward pump flux (micro M/s),137,
+K_{mr},the Hill parameters for the backward pump flux (mM),1.8,
+\eta_r,the Hill parameters for the backward pump flux,0.75,

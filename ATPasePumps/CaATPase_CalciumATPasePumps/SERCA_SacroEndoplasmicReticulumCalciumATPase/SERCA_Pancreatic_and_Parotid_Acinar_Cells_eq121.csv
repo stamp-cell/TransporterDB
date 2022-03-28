@@ -1,0 +1,5 @@
+PMCA_eq 121,Type of cells: pancreatic and parotid acinar cells,,
+Parameter,Description, Value,Ref
+K_{SERCA},the concentration at which a half-maximal uptake is observed \micro M,0.18,"[43, 44]"
+J_SERCA}^max,the maximum current through the pump ((\micro M)^2)/s,120,
+\etha_SERCA,The hill coefficient for SERCA pump,1,
