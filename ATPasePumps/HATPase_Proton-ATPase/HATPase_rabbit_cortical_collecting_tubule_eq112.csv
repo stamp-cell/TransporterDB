@@ -1,0 +1,7 @@
+PorotonATPase_eq112,Type of cells: rabbit cortical collecting tubule,,
+Parameter,Description, Value,Ref
+"J_{H,HATPase}^{max}",the maximum hydrogen flux through $H-ATPase$ pumps in unit of (mmol/scm2)-apical,2E-07,"[32, 69]"
+"J_{H,HATPase}^{max}",the maximum hydrogen flux through $H-ATPase$ pumps in unit of (mmol/scm2)-basolateral,3.6E-07,
+"V_{1/2, H-ATPase}^{M-N}",the electrochemical potential difference where the flux is half of its maximum value in unit of J/mmol,2.1,
+\zeta,the coefficient representing the steepness of the function,0.4,
+\nu_H^{M-N},the electrochemical potential difference of hydrogen from the M (cytosol) region to the N (luminal) region. ,,

@@ -1,0 +1,14 @@
+HATPase_eq115,Type of cells: Tubular cells,,
+Parameter,Description/unit, Value,Ref
+k1,cm^3 · mmol^-1 · s^-1,8.33E+09,"[34, 63]"
+k2,s^-1,1.00E+03,
+k3,cm^3 · mmol^-1 · s^-1,8.33E+09,
+k4,s^-1,1.00E+04,
+k5,cm^3 · mmol^-1 · s^-1,2.50E+10,
+k6,s^-1,1.00E+03,
+k7,cm^3 · mmol^-1 · s^-1,2.50E+10,
+k8,s^-1,2.50E+02,
+k9,cm^3 · mmol^-1 · s^-1,1.00E+09,
+k10,cm^3 · mmol^-1 · s^-1,1.80E+05,
+k11,s^-1,5.00E+02,
+k12,s^-1,1.00E+02,

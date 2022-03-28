@@ -1,2 +1,4 @@
 PorotonATPase_eq114,,,
 Parameter,Description, Value,Ref
+"J_{H,HATPase}^{max}",the maximum hydrogen flux through $H-ATPase$ pumps in the unit of mol/cm2,2.00E-10,[29]
+"K_{H,H-ATPase}",the affinity of the pump to the $H^+$ ion in the unit of mol/cm3,1.59E-10,
