@@ -1,0 +1,5 @@
+PMCA_119,Type of cells: vascular endothelial cells,,
+Parameter,Description/unit, Value,Ref
+I_{PMCA}^{max},Maximum PCA current (pA),2.67,"[3, 7, 17]"
+K_PMCA_Cai,[Ca2]_i for half activation of PMCA current (mM),2.60E-04,
+\etha_PMCA,Hill coefficient of PMCA,1.4,
