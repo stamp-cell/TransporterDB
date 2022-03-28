@@ -1,5 +1,0 @@
-NaKATPase_eq101,,,
-Parameter,Description, Value,Ref
-J_{Na^+}^{NakATpase},the maximum steady-state efflux of the sodium ions and is the function of membrane potential,,[29-34]
-K_{Na}^{NaK},the saturation constants for the intracellular sodium,,
-K_{K}^{NaK},the saturation constants for the extracellular potassium ions,,
