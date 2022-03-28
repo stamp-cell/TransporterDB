@@ -1,0 +1,8 @@
+NCX_eq147,Type of cell: Vascular endothelial cells,,
+Parameter,Description, Value,Ref
+g_{NCX},the NCX conductance (nS),1.99,"[3, 65]"
+"K_{NCX, m}^{Ca}",the intracellular calcium concentration for half activation of NCX current (mM),0.502,
+"\eta_{NCX, h}",the Hill coefficient for half activation of NCX current,1.5,
+n_{NCX},the NCX stoichiometry,3,[61]
+r,the voltage dependence Eyring rate,0.483,"[3, 65]"
+d_{NCX},the denominator constant for NCX,3.04E-04,"[3, 65]"

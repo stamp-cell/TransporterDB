@@ -1,0 +1,5 @@
+NCX_eq146,Type of cell: cardiac,,
+Parameter,Description, Value,Ref
+k_{NCX},the scaling factor that scales the exchange current for a given energy barrier and determines the magnitude of the current,0.02,[15]
+r,characterizes the position of the energy barrier in the electrical field,0<r<1,
+d_{NCX},the denominator constant,0.001,
