@@ -1,0 +1,7 @@
+BCE_eq145,Type of cell: epithelial_cell_in_parotid_duct,,
+Parameter,Description, Value,Ref
+n_{BCE}^{''},$BCE$ density per membrane area,,"[6, 60]"
+k^+[Cl],association rate constant for the chloride ions (per second),5.8599,
+k^-[Cl],dissociation rate constant for the chloride ions (per second),1.07E+08,
+k^+[HCO3],association rate constant for the bicarbonate ions (per second),9.31E+07,
+k^-[HCO3],dissociation rate constant for the bicarbonate ions (per second),5.1418,

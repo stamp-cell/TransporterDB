@@ -1,2 +1,6 @@
-BCE_eq143,,,
+BCE_eq144,Type of cell: Pancreatic_Ductal_Epithelial_Cell,,
 Parameter,Description, Value,Ref
+J_{BCE},,,"[34, 38]"
+P_{BCE} = g_{BCE} [E_t],,,
+K_{Cl},,,
+K_{HCO_3},,,

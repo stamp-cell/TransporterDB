@@ -1,0 +1,7 @@
+BCE_eq144,Type of cell: Pancreatic_Ductal_Epithelial_Cell,,
+Parameter,Description, Value,Ref
+J_{BCE},the turn over rate of the Cl/HCO_3 exchanger ,nmol/min/cm^2,"[34, 38]"
+P_{BCE} = g_{BCE} [E_t] (l),the permeability of the membrane to BCE per $1cm^2$ of the membrane ($mol/s/cm^2$),7.2E-09,
+P_{BCE} = g_{BCE} [E_t] (bl),the permeability of the membrane to BCE per $1cm^2$ of the membrane ($mol/s/cm^2$),4.8E-09,
+K_{Cl},the dissociation constants for Cl ions in the unit of $mM$,10,
+K_{HCO_3},the dissociation constants for HCO3 ions in the unit of $mM$,1,
