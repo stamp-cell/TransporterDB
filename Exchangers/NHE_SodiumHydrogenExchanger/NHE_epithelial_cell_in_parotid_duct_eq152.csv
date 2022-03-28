@@ -1,0 +1,5 @@
+NHE_eq152 (to be completed),Type of cells: epithelial_cell_in_parotid_duct,,
+Parameter,Description, Value,Ref
+E_t,the total carrier concentration of the NBCn transporter on either side of the membrane,$s^{-1}$,"[64, 65]"
+g_{ENa}^M,the translocations of the exchanger for the carrier bound to Na^+,$s^{-1}$,
+g_{EH}^N,the translocations of the exchanger for the carrier bound to H^+,,

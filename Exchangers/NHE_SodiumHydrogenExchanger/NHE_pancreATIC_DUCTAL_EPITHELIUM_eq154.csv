@@ -1,0 +1,5 @@
+NHE_eq154,Type of cell:Pancreatic Ductal Epithelium,,
+Parameter,Description, Value,Ref
+P_{NHE} = [E_t]\g_{NHE},represents the membrane permeability coefficient for the sodium-hydrogen exchanger (NHE) in unit of $mol/s/cm^2$ (permeability per 1 $cm^2$),2.50E-10,"[34, 55, 38]"
+K_{Na},the dissociation constants in $mM$ unit,100,
+K_H,the dissociation constants in $mM$ unit,0.0005,
