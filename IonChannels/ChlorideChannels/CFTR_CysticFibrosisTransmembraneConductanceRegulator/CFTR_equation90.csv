@@ -1,7 +1,0 @@
-CFTR-eq90,,,
-Parameter,Description, Value,Ref
-{n''}_{CFTR}^{M-N(a)},the CFTR channel density per membrane area,,[26]
-"P_{Cl, CFTR}^{M-N(a)}",the permeability coefficient for the CFTR channel,,
-F ,Faraday's constant,"96,490 (A.s /mol)",
-R,Universal gas constant  ,8.314 (J/(mol.K)),
-z_Cl,Ionic charge for chloride ion,-1,
