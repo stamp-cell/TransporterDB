@@ -1,0 +1,11 @@
+CaCC-eq81,Type of cell: parotid acinar cell,,
+Parameter,Description, Value,Ref
+{n''}_{CaCC}^{M-N},the CaCC channel density per membrane area,,"[7, 24, 25]"
+g_{Cl}^{M-N},the maximum whole cell conductance (in siemens units) for chloride anions,,
+"f_{o}^{Cl, CaCC}",the open probability of the CaCC channels and is a function of intracellular calcium concentration,,
+K_{CaCC},the Hill parameter for CaCC model,,
+[Ca]_{M(i)},the intracellular calcium concentration,,
+K_1,the equilibrium constants in the unit of nM and are voltage-dependent,,
+K_2,the equilibrium constants in the unit of nM and are voltage-dependent,,
+"bar{f}_{o}^{CaCC,\;HPV}",represents the steady-state open probability of the CaCC channels,,
+V_{half \; max}^{CaCC},the half-maximum for voltage dependency,,

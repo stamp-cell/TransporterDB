@@ -1,0 +1,13 @@
+CaCC-eq81,Type of cell: Vascular Endothelial Cell,,
+Parameter,Description, Value,Ref
+{n''}_{CaCC}^{M-N},the CaCC channel density per membrane area,,[3]
+g_{Cl}^{M-N},the maximum whole cell conductance (in siemens units) for chloride anions,373,
+"f_{o}^{Cl, CaCC}",the open probability of the CaCC channels and is a function of intracellular calcium concentration,,
+\tau_{CaCC},time constant of the voltage activation,,
+\sigma,constant,,
+\mu,constant,,
+V_{half \; max}^{CaCC},half-maximum for voltage dependency,,
+"bar{f}_{o}^{CaCC,\;HPV}",represents the steady-state open probability of the CaCC channels,,
+V_CaCC,slope factor of CaCC channel,132,
+K_{CaCC},Ca_i concentration at which CaCC Ca dependent open probablity is 50%,287,
+\etha_CaCC,Hill coefficient for CaCC channels,1.89,

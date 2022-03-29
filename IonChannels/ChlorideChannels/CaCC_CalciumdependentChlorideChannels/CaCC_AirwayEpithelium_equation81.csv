@@ -1,0 +1,7 @@
+CaCC-eq81,Type of cells: airway epithelium,,
+Parameter,Description, Value,Ref
+{n''}_{CaCC}^{M-N},the CaCC channel density per membrane area,,[5]
+g_{Cl}^{M-N},the maximum whole cell conductance (in siemens units) for chloride anions,82,
+"f_{o}^{Cl, CaCC}",the open probability of the CaCC channels and is a function of intracellular calcium concentration,eq.82,
+K_{CaCC},the Hill parameter for CaCC model,0.26,
+\etha_{CaCC},The hill coefficient,1.49,
