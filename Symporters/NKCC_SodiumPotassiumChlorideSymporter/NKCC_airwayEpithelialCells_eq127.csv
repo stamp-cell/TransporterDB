@@ -1,0 +1,6 @@
+NKCC_eq127,Type of cell: airway epithelial cells,,
+Parameter,Description, Value,Ref
+P_{NKCC2},the permeability coefficient for the transporter NKCC2 in cm/(hr M3),5.26E-04,"[5, 51]"
+K_{Cl},Saturability values of Cl in mM,26,
+K_{K},Saturability values of K in mM,7.5,
+K_{Na},Saturability values of Na in mM,3.8,

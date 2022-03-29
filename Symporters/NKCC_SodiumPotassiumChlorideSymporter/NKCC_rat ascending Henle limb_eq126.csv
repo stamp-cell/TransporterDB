@@ -1,0 +1,12 @@
+NKCC_eq126,Type of cell: rat ascending Henle limb,,
+Parameter,Description, Value,Ref
+K_Na,Equilibrium constant,0.275,[50]
+K_Cl,Equilibrium constant,8.16E-05,
+K_K,Equilibrium constant,5.77,
+K_NH4,Equilibrium constant,5.77,
+P’_{NKCC},Translocation rate,10000,
+P”{NKCC},Translocation rate,9695,
+P”_O,Translocation rate,251700,
+P’_O,Translocation rate,259600,
+P”_{nmcc},Translocation rate,2000,
+P”{nmcc},Translocation rate,1939,

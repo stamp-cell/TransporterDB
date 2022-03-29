@@ -1,0 +1,17 @@
+NKCC_eq124,Type of cell: Xenopus laevis oocytes,,
+Parameter,Description, Value,Ref
+K_{Cl}^M,the equilibrium constant of the ion in the unit of $mmol$,5,"[34, 46, 47, 48]"
+K_{ClNa}^M,the equilibrium constant of the ion in the unit of $mmol$,25,
+K_{ClNaCl}^M,the equilibrium constant of the ion in the unit of $mmol$,170,
+K_{ClNaClK}^M,the equilibrium constant of the ion in the unit of $mmol$,9,
+K_{Cl}^N,the equilibrium constant of the ion in the unit of $mmol$,10,
+K_{ClNa}^N,the equilibrium constant of the ion in the unit of $mmol$,1,
+K_{ClNaCl}^N,the equilibrium constant of the ion in the unit of $mmol$,40,
+K_{ClNaClK}^N,the equilibrium constant of the ion in the unit of $mmol$,5,
+[E]_t,number of NKCC transporter,1000,
+k_i,translocation constant,0.5,
+k_o,translocation constant,1,
+f_i,translocation constant,0.7,
+f_o,translocation constant,10,
+g_i,translocation constant,8,
+g_o,translocation constant,2,

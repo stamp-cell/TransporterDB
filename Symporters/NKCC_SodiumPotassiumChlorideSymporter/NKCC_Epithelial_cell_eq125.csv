@@ -1,0 +1,10 @@
+NKCC_eq125,Type of cell: epithelial cell,,
+Parameter,Description, Value,Ref
+K_Na,Equilibrium constant for Na ions,84.45,"[34, 49]"
+K_Cl,Equilibrium constant for Cl ions,57.35,
+K_K,Equilibrium constant for K ions,1.16,
+g_{ENaClKCl}^M,Translocation rate for the fully loaded carrier ,3065,
+g_{ENaClKCl}^N,Translocation rate for the fully loaded carrier ,1456,
+g_{E}^M,Translocation rate for the empty carrier ,37767,
+g_{E}^N,Translocation rate for the empty carrier ,79522,
+[E]_t,,2,

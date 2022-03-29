@@ -1,0 +1,7 @@
+NKCC_eq131,Type of cell: acinar cells,,
+Parameter,Description, Value,Ref
+r_{NKCC},a constant in the unit of $1/s$,4.31,"[7, 52]"
+K_{NKCC}, a constant in a unit of $mM^{-4}$,0.0282,
+\alpha_1,dimensionless constant,1.28E+05,
+\alpha_2,dimensionless constant,3.79E+04,
+[E]_{NKCC},the NKCC transporter density per membrane area,3.20E-17,
