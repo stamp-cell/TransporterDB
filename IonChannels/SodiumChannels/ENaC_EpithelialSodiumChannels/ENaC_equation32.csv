@@ -1,6 +1,0 @@
-EnaC-eq32,,,
-Parameter,Description, Value,Ref
-"P_{Na, EnaC}^{M-N}",The permeability coefficient for the potassium ions through the CaKC channels,,"[8, 12]"
-F ,Faraday's constant,"96,490 (A.s /mol)",
-R,Universal gas constant  ,8.314 (J/(mol.K)),
-z_Na,Ionic charge for sodium ion,1,
