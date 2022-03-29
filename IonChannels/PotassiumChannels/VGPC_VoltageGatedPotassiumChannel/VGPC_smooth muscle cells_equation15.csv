@@ -1,0 +1,18 @@
+VGPC-eq15,Type of cell: smooth muscle cells,,
+Parameter,Description, Value,Ref
+g_{K_v},The cell conductance for VGPC channels in nS,9.8325,[4]
+f_o^{Kv},The open probability for VGPC channels,thorough eq 16,
+C_f,the corresponding fast activation constant coefficient,0.58,
+f_f^{Kv},time-course of channel's open probability-fast component,obtained through eq. 17,
+\Bar{f}_o^{Kv},the steady-state open probability of the voltage-gated potassium channels,,
+\tau_{f_f}^{Kv},the correspondence mean time constants for the fast open probability,,
+C_s,the corresponding slow activation constant coefficient,0.42,
+f_f^{Kv},time-course of channel's open probability-slow component,obtained through eq. 18,
+tau_{f_s}^{Kv} ,the correspondence mean time constants for the slow open probability,,
+\Bar{f}_o^{Kv},the steady-state open probability of the voltage-gated potassium channels,,
+k_{kv},the K_v channel's constant in the unit of ,mV,
+"V_{1/2, Kv}",the half-activation potential for the K_v,obtained through eq. 14,
+A_{\tau_{f_f}},constant numbers,210.99,
+V_{\tau_{f}^{Kv}},,214.34,
+k_{\tau_{f}^{Kv}},,195.35,
+A ,Half activation potential for I_kv (mV),-1.77,
