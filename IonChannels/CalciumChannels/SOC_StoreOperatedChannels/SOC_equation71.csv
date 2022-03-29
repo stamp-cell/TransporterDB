@@ -1,9 +1,0 @@
-SOC-eq71,,,
-Parameter,Description, Value,Ref
-"g_{Ca, SOC}^{max}",the SOC channel's maximum conductance for calcium ions,,"[2, 23]"
-f_o^{SOC},the open probability of the SOC channels,,
-eta_{SOC},the Hill coefficient for the SOC channels,,
-K_{SOC},the calcium concentration at which the open probability is 50%,,
-f_{o}^{SOC},represents the dependency of the open probability of the SOC channels on the calcium concentration,,
-z_Na,,1,
-z_Ca,,2,
