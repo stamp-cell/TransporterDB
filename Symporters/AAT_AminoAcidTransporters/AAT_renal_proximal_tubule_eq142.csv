@@ -1,0 +1,5 @@
+NKCC_eq124,Type of cell: renal proximal tubule,,
+Parameter,Description, Value,Ref
+P_{AAT}^{M-N(a)},the permeability of the membrane to the Na-coupled amino acid transporter per $1cm^2$ of the membrane ($mol/s/cm^2$),0.044,[58]
+F ,Faraday's constant,"96,490 (A.s /mol)",
+R,Universal gas constant  ,8.314 (J/(mol.K)),
