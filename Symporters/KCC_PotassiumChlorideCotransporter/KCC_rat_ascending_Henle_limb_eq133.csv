@@ -1,0 +1,11 @@
+KCC_eq133,Type of cell: rat ascending Henle limb,,
+Parameter,Description, Value,Ref
+K_K,Transporter binding affinity for Potassium (K) ions,0.00145,[36]
+K_Cl,Transporter binding affinity for Chloride (Cl) ions,0.02108,
+K_NH4,Transporter binding affinity for Ammonium (NH4) ions,0.00145,
+p’_{KCC},Translocation constant,10000,
+p”_{KCC},Translocation constant,1098,
+p’_O,Translocation constant,39280,
+P”_O,Translocation constant,357700,
+P’_{mcc},Translocation constant,2000,
+P”_{mcc},Translocation constant,219.6,
