@@ -1,0 +1,17 @@
+CaL-eq56,Type of cell: Smooth Muscle cell,,
+Parameter,Description, Value,Ref
+g_{Ca_L}^{max},the maximum cell conductance for calcium L-type channels,can be obtained through eq. 58,"[2, 4]"
+f_o^{CaL},The activation probability of the CaL channels,can be obtained through eq. 59,
+f_d^{CaL},The inactivation probability for CaL channels,,
+Bar{f}_{d}^{Ca_l}  ,the steady state value of  f_d^{Ca_l},can be obtained through eq. 60,
+Bar{f}_{o}^{Ca_l},the steady state values of f_o^{Ca_l},can be obtained through eq. 61,
+tau_{f_f}^{Ca_l},the respective time constant for activation gate,eq. 63,
+tau_{f_d}^{Ca_l},the respective time constant for inactivation gate,eq. 62 ,
+"V_{1/2, f_o}^{ Ca_l, M-N}",Half-activation voltage,1.88,
+"V_{1/2, f_d}^{ Ca_l, M-N}",Half-inactivation voltage,29.32,
+C_f,coefficient for the fast component of the channel activation,0.7,
+C_s,coefficient for the slow component of the channel activation,0.26,
+k_{f_d}^{Ca_l},constant number in mV,7.57,
+k_{f_o}^{Ca_l},constant number in mV,1.54,
+V_{\tau_{f_d}^{Ca_l}},constant number in mV,8.63,
+V_{\tau_{f_f}^{Ca_l}},constant number in mV,4.72,
