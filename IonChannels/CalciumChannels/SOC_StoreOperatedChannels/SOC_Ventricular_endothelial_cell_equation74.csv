@@ -1,0 +1,13 @@
+SOC-eq71,Type of cell: Ventricular Endothelial cell,,
+Parameter,Description, Value,Ref
+"P_{Ca, SOC}^{M-N(a)}",the apical membrane permeability coefficients for the calcium ions through SOC channels,1.15E-07,[3]
+"P_{Na, SOC}^{M-N(a)}",the apical membrane permeability coefficients for the sodium ions through SOC channels,3.95E+07,
+F ,Faraday's constant,"96,490 (A.s /mol)",
+R,Universal gas constant  ,8.314 (J/(mol.K)),
+f_o^{SOC},the open probability of the SOC channels,,
+"eta_{SOC}, Na",the Hill coefficient for the SOC channels,0.622,
+eta_{SOC},the Hill coefficient for the SOC channels by IP3sensitive Ca2 store current,3.2,
+K_{SOC},the calcium concentration in IP3 sensitive store for half activation of SOC,1.06,
+"K_{SOC , CaO}",the[Ca]_O concentration at which the open probability is 50% permeability to Na,2.00E-04,
+z_Na,Ionic charge for sodium ion,1,
+z_Ca,Ionic charge for calcium ion,2,

@@ -1,0 +1,9 @@
+SOC-eq71,Type of cell: Smooth muscle cell,,
+Parameter,Description, Value,Ref
+"g_{Ca, SOC}^{max}",the SOC channel's maximum conductance for calcium ions,1.4151,"[2, 23]"
+f_o^{SOC},represents the dependency of the open probability of the SOC channels on the calcium concentration,eq. 73,
+eta_{SOC},the Hill coefficient for the SOC channels,1,
+K_{SOC},the calcium concentration at which the open probability is 50% (micro M),100,
+z_Na,,,
+z_Ca,,1,
+,,2,
