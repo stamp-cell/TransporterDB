@@ -1,0 +1,9 @@
+IRKC-eq1,Type of cell: smooth muscle cells,,
+Parameter,Description, Value,Ref
+g_kir,The cell conductance for potassium ions through Kir channels (nS),0.411,[1-4]
+"f_o^{k, kir}",The open probability of these channels,0,
+k_kir,Inward rectifier constant(the steepness factor of conductance-voltage relationship) (mV),28.89,
+"V_{1/2, Kir}",The half-activation potential,eq.4,
+A,A constant that determines the voltage shift per decade increase in intracellular potassium concentration,25.19,
+B,A constant that determines the voltage shift per decade increase in intracellular potassium concentration in mV,112.29,
+n_{kir},The Hill coefficient for the kir open probability,0.365,
