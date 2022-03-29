@@ -1,5 +1,0 @@
-CFTR-eq91,,,
-Parameter,Description, Value,Ref
-{n''}_{CFTR}^{M-N(a)},the CFTR channel density per membrane area,,"[8,8,27]"
-g_{CFTR}^{M-N},the (membrane) conductance for CFTR channel,,
-f_o^{CFTR},the open probability of the CFTR channels,,
