@@ -1,0 +1,6 @@
+NBC_eq139,Type of cell: parotid duct,,
+Parameter,Description, Value,Ref
+K+5,Rate constants for fluxes through NBC transporters mM/s,-6.04E-01,"[6,34]"
+k-5,Rate constants for fluxes through NBC transporters mM/s,1.00E+08,
+K+6,Rate constants for fluxes through NBC transporters mM/s,1.00E+08,
+k-6,Rate constants for fluxes through NBC transporters mM/s,-1.94E-01,

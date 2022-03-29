@@ -1,0 +1,5 @@
+NBC_eq136,Type of cells:  pancreatic duct cell,,
+Parameter,Description, Value,Ref
+g_nbc,the nbc conductance,2,"[28, 34]"
+F ,Faraday's constant,"96,490 (A.s /mol)",
+R,Universal gas constant  ,8.314 (J/(mol.K)),

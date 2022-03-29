@@ -1,0 +1,9 @@
+NBC_eq139,Type of cell: Pancreatic Ductal Epithelium,,
+Parameter,Description, Value,Ref
+P_{NBCe},the membrane permeability to the $NBCe$ symporter,1.5E-09,"[34, 55]"
+K_{Na}, the dissociation constant for binding of $Na$ ions to $NBCe$,500,
+K_{HCO3}, the dissociation constant for binding of $HCO_3$ ions to $NBCe$,30,
+g’,the velocity constant ratio of the translocation step of the fully loaded carrier to the empty carrier,100,
+n,the coupling ratio of $HCO_3$ ions to one $Na$ ion in the $NCB_e$ cotransporter,2,
+F ,Faraday's constant,96490 (A.s /mol) ,
+R,Universal gas constant  ,8.314 (J/(mol.K)),
