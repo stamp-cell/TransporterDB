@@ -1,5 +1,0 @@
-CFTR-eq92,,,
-Parameter,Description, Value,Ref
-{n''}_{CFTR}^{M-N(a)},the CFTR channel density per membrane area,,[6]
-g_{CFTR}^{M-N},the (membrane) conductance for CFTR channel,,
-beta,represents the ratio of the membrane conductance through the CFTR channel for bicarbonate ions relative to the chloride anions,can be obtained through eq. 94,
