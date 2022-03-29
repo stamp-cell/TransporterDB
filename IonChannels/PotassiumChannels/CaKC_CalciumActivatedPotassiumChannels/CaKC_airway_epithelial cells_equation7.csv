@@ -1,0 +1,7 @@
+XcaKC-eq5,Type of cells: airway epithelial cells,,
+Parameter,Description, Value,Ref
+n''_{CaKC}^{M-N},The number of CaKC channel density per unit area of the membrane,,[8]
+"P_{K, X_{CaKC}}^{M-N}",The permeability coefficient for the potassium ions through the CaKC channels in cm/hr,2.54E-03,
+F ,Faraday's constant,"96,490 (A.s /mol)",
+R,Universal gas constant  ,8.314 (J/(mol.K)),
+z_K,Ionic charge for potassium ion,1,

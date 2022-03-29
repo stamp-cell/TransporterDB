@@ -1,0 +1,18 @@
+XcaKC-eq5,Type of cells: smooth_muscle_cells,,
+Parameter,Description, Value,Ref
+g_{BKCaKC},The maximum whole-cell conductance for the CaKC channels (nS),0.5,[4]
+"f_o^{k, CaKC}",The open probability for CaKC channels,eq9,
+C_f,the corresponding fast activation constant coefficient,0.65,
+f_f^{BK_{CaKC},time-course of channel's open probability-fast component,obtained through eq. 10,
+\Bar{f}_f^{BK_{CaKC}},the steady state open probability of the high conductance CaKC channel-fast component,eq13,
+tau_{f_f}^{CaKC},the correspondence mean time constants for the fast open probability (mS),0.5,
+C_s,the corresponding slow activation constant coefficient,0.35,
+f_s^{BK_{CaKC},time-course of channel's open probability-slow component,,
+\Bar{f}_s^{BK_{CaKC}},the steady state open probability of the high conductance CaKC channel-slow component,eq13,
+tau_{f_s}^{CaKC} ,the correspondence mean time constants for the slow open probability (mS),11.5,
+\Bar{f}_{o}^{BK_{CaKC}},the steady state open probability of the high conductance CaKC channel,eq12,
+"V_{1/2, BK_{CaKC}}",half-activation potential for the high conductance CaKC channels,eq. 14,
+k_{BK_{CaKC}},high conductance CaKC channel's constant (mV),21.7,
+A,constant- determines the voltage shift per decade increase in intracellular calcium concentration,-45,
+B,constant- determines the voltage shift per decade increase in intracellular calcium concentration in mV,198.55,
+"V_{1/2, BK_{CaKC}} ",the half-activation potential for the high conductance CaKC channels,obtained through eq. 14,

@@ -1,0 +1,8 @@
+XcaKC-eq5-X denotes S K or I K or BK,Type of cell: parotid acinar cell,,
+Parameter,Description, Value,Ref
+n''_{CaKC}^{M-N},The number of CaKC channel density per unit area of the membrane,,[5-7]
+g_{CaKC},The maximum whole-cell conductance for the CaKC channels (nS),14,
+"f_o^{k, CaKC}",The open probability for CaKC channels,eq.6,
+A,,,
+K_{Ca}^{CaKC},Potassium concentration at half of the maximum reaction rate for the CaKC open probability (micro M),0.182,
+eta_{CaKC},The Hill coefficient for the CaKC open probability,2.54,
