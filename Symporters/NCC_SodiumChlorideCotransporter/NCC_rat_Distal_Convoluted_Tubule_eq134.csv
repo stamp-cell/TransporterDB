@@ -1,0 +1,10 @@
+NCC_eq134,Type of cell: rat distal convoluted tubule,,
+Parameter,Description, Value,Ref
+Kn,the equilibrium binding concentration (mM),4.182,"[34, 54]"
+Kc,the equilibrium binding concentration (mM),49.826,
+Knc,the equilibrium binding concentration (mM),10.65,
+Kcn,the equilibrium binding concentration (mM),0.894,
+P’O,Translocation of an empty carrier,4.59E+05,
+P”O,Translocation of an empty carrier,1.00E+03,
+P’nc,Translocation of an empty carrier,1000,
+P”nc,Translocation of an empty carrier,218,
